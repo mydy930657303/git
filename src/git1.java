@@ -7,5 +7,6 @@ public class git1 {
         System.out.println("g4");
         System.out.println("g5");
         System.out.println("m6");
+        System.out.println("ggg");
     }
 }
